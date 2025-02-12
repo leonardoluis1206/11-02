@@ -3,8 +3,8 @@ package com.mycompany.contabancaria;
 import java.util.Scanner;
 
 public class ContaBancaria {
-    private int escolha;
-    private double saldo;
+    public int escolha;
+    public double saldo;
 
     public double getSaldo() {
         return saldo;
